@@ -134,7 +134,7 @@ on jitsi-meet index page add folloiwng;
 
 interpret.js file shown below
 
-''''''''''''''''''
+````
 const interpreter_pattern =  /interpret/i	;
 //data={'isFoQus':true,'isLive':false,'InterpreterID':InterpreterID};
 function receivedMessage(evt) {
@@ -257,5 +257,5 @@ function setRecorderSettings() {
 //setTimeout(function() {setRecorderSettings();}, 1000);
 setRecorderSettings();
 
-''''''''''''''''''
+````
 
