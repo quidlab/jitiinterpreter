@@ -1,4 +1,4 @@
-# jitiinterpreter
+# jitsi interpreter
 Add Multi Lingual capability to jitsi
 This works and has been tested with jwt implementation. In my case i use iframe API and users login to a separate url ( other than jitsi server). Users are issued jwt token. On this page add a toggle button with following code.
 ````
